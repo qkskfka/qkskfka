@@ -1,6 +1,6 @@
 # 👋 Hello, I'm [Lee Jong Chan]!
 
-![AI Developer Banner](https://your-image-url.com)
+![AI Data Analyst](https://via.placeholder.com/1200x300.png?text=AI+Developer)
 
 I am a passionate AI Developer with a keen interest in machine learning, deep learning, and data science. I love creating intelligent systems and leveraging AI to solve real-world problems.
 
